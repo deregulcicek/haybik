@@ -166,7 +166,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{ssa_analysis_2025,
   title={Synthetic Social Alienation: The Role of Algorithm-Driven Content in Shaping Digital Discourse and User Perspectives},
-  author={Your Name},
+  author={Serttaş, A.; Gürkan, H.; Dere, G.},
   journal={Journalism and Media},
   year={2025},
   volume={6},
