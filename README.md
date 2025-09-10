@@ -164,13 +164,17 @@ lime>=0.2.0
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{ssa_analysis_2024,
-  title={Synthetic Social Alienation: A Computational Analysis of Digital Alienation Patterns},
-  author={[Your Name]},
-  journal={[Journal Name]},
-  year={2024},
-  doi={[DOI]}
+@article{ssa_analysis_2025,
+  title={Synthetic Social Alienation: The Role of Algorithm-Driven Content in Shaping Digital Discourse and User Perspectives},
+  author={Your Name},
+  journal={Journalism and Media},
+  year={2025},
+  volume={6},
+  number={3},
+  pages={149},
+  doi={10.3390/journalmedia6030149}
 }
+
 ```
 
 ## Contact
